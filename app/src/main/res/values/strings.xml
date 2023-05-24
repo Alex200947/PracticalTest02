@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PracticalTest02</string>
+    <string name="server">Server</string>
+    <string name="server_port">server port</string>
+    <string name="connect">connect</string>
+    <string name="client">Client</string>
+    <string name="client_address">client address</string>
+    <string name="client_port">client port</string>
+    <string name="name_pokemon">name pokemon</string>
+    <string name="get_info">get info</string>
 </resources>
